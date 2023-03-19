@@ -32,7 +32,7 @@ const Hero = () => {
           <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
               <a
-                href="https://amatech1006.notion.site/CAC-74c08880945b47b2b6ae5094917db184"
+                href="https://amatech1006.notion.site/amatech1006/9728f0790eb44f4794b8fe531fbde9c7"
                 className="inline-flex items-center justify-center rounded-md border border-transparent bg-blue-500 px-5 py-3 text-base font-medium text-white hover:bg-blue-400 sm:text-lg md:text-xl lg:text-2xl xl:text-3xl"
               >
                 あまてくについてもっと知る
