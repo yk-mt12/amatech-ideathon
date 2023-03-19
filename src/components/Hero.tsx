@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="bg-gray-100 py-12">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="relative">
-          <h2 className="font-semibold uppercase tracking-wide text-blue-600 maxsp:text-3xl sm:text-3xl md:text-4xl lg:text-6xl xl:text-6xl">
+          <h2 className="font-semibold uppercase tracking-wide text-blue-500 maxsp:text-3xl sm:text-3xl md:text-4xl lg:text-6xl xl:text-6xl">
             チーム対抗！
           </h2>
           <p className="mt-2 text-sm font-extrabold leading-8 tracking-tight text-gray-900 sm:text-base sm:text-5xl md:text-lg lg:text-xl xl:text-3xl">
@@ -32,10 +32,10 @@ const Hero = () => {
           <div className="mt-8 flex justify-center">
             <div className="inline-flex rounded-md shadow">
               <a
-                href="https://www.canva.com/design/DAFcZ-2dNUw/UShwYz2ztFeB3r4CeXtE0Q/view?utm_content=DAFcZ-2dNUw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-                className="inline-flex items-center justify-center rounded-md border border-transparent bg-blue-600 px-5 py-3 text-base font-medium text-white hover:bg-blue-700 sm:text-lg md:text-xl lg:text-2xl xl:text-3xl"
+                href="https://amatech1006.notion.site/CAC-74c08880945b47b2b6ae5094917db184"
+                className="inline-flex items-center justify-center rounded-md border border-transparent bg-blue-500 px-5 py-3 text-base font-medium text-white hover:bg-blue-400 sm:text-lg md:text-xl lg:text-2xl xl:text-3xl"
               >
-                アイディアソンとは？
+                あまてくについてもっと知る
               </a>
             </div>
           </div>

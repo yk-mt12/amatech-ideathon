@@ -23,13 +23,15 @@ const Info = () => {
 
       <div className="mb-4">
         <h2 className="text-xl font-bold">表彰</h2>
-        <p>当日のお楽しみ！</p>
+        <p>優勝景品: ¥10,000(1チーム)</p>
+        <p>メンター賞: ¥2000(1人)</p>
       </div>
 
       <div className="mb-4">
         <h2 className="text-xl font-bold">審査員</h2>
         <p>学生審査員+企業審査員の5名</p>
       </div>
+
     </div>
   );
 };

@@ -18,7 +18,7 @@ const Ideatheme = () => {
           </h2>
           <p className="mt-4 text-xl text-gray-500 sm:text-4xl lg:text-5xl">
             大学生が考える
-            <span className="text-4xl font-extrabold text-blue-600 sm:text-5xl lg:text-6xl ">
+            <span className="text-4xl font-extrabold text-blue-500 sm:text-5xl lg:text-6xl ">
               京都
             </span>
             の課題を最高のプロダクトで解決しよう！
