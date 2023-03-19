@@ -4,7 +4,12 @@ const IdeathonFeatures = () => {
   return (
     <div className="mb-20">
       <h2 className="mb-4 text-3xl font-bold">あまてく アイディアソンの特徴</h2>
-      <ul className="mb-4 list-inside list-disc">
+      <h3 className="mb-4 text-xl font-bold hover:text-blue-600">
+        <a href="https://amatech1006.notion.site/CAC-74c08880945b47b2b6ae5094917db184">
+          あまてくについてもっと知る→
+        </a>
+      </h3>
+      <ul className="mb-4 list-inside list-disclosure">
         <li>
           <strong>各チームに先輩メンターが伴走します💪</strong>
           <p className="mt-2">
