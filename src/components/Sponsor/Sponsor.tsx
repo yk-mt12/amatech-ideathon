@@ -8,12 +8,12 @@ const Sponsor = () => {
         <div className="w-full lg:w-auto lg:mr-6">
           <CompanyLogo src="/images/logo/tomosuba-logo.png" href="https://tomosuba.jp/kyoto" />
         </div>
-        <div className="w-full lg:w-auto lg:mx-6">
+        {/* <div className="w-full lg:w-auto lg:mx-6">
           <CompanyLogo src="/path/to/logo2.png" href="#" />
         </div>
         <div className="w-full lg:w-auto lg:ml-6">
           <CompanyLogo src="/path/to/logo3.png" href="#" />
-        </div>
+        </div> */}
       </div>
     </div>
   );
