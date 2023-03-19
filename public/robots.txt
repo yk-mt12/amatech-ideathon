@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://amatech-ideathon-mxd3ljcb2-yk-mt12.vercel.app/sitemap.xml
