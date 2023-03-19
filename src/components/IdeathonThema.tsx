@@ -24,10 +24,10 @@ const Ideatheme = () => {
             の課題を最高のプロダクトで解決しよう！
           </p>
         </div>
-        <div className="mx-4 sm:mx-10">
+        <div className="mx-4 sm:mx-4">
           <div
             className="flex flex-wrap justify-center items-center"
-            style={{ gap: "4rem" }}
+            style={{ gap: "3rem" }}
           >
             <div className="w-full sm:w-auto">
               <Image
