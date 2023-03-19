@@ -11,8 +11,8 @@ const CompanyLogo = ({ src, href }: Props) => {
       <Image
         src={src}
         alt="Company Logo"
-        width={128}
-        height={128}
+        width={250}
+        height={250}
       />
     </a>
   );
