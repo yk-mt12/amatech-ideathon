@@ -7,7 +7,7 @@ const Info = () => {
 
       <div className="mb-4">
         <h2 className="text-xl font-bold">日時</h2>
-        <p>2023年3月25日（金）~3月26日（土）</p>
+        <p>2023年3月25日（土）~3月26日（日）</p>
       </div>
 
       <div className="mb-4">
