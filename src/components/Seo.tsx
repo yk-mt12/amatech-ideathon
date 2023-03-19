@@ -14,7 +14,7 @@ const Seo = () => {
           url: "あまてくイベントサイト",
           images: [
             {
-              url: "/public/images/ogp.png",
+              url: "https://amatech-ideathon-nehdmz389-yk-mt12.vercel.app/",
               width: 800,
               height: 600,
               alt: "Og Image Alt",
