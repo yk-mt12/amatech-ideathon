@@ -13,10 +13,10 @@ const Seo = () => {
           春休み最後に、2日間で企画〜プロトタイプ作成までを行い、一緒にアウトプットを行う1歩目を踏み出しましょう✨
           今回のアイディアソンでは、テーマに沿った課題を解決するためのアイディアをチームで考え、本当にニーズ・価値のあるプロダクトを考案してもらいます💪`,
           site_name: "あまてくイベントサイト",
-          url: "あまてくイベントサイト",
+          url: "https://amatech-ideathon-ahwn6tro2-yk-mt12.vercel.app",
           images: [
             {
-              url: "https://amatech-ideathon-nehdmz389-yk-mt12.vercel.app/",
+              url: "https://amatech-ideathon-ahwn6tro2-yk-mt12.vercel.app/images/ogp.jpg",
               width: 800,
               height: 600,
               alt: "Og Image Alt",
