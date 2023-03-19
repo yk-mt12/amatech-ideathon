@@ -1,7 +1,12 @@
 import Head from "next/head";
 import Image from "next/image";
 
-const Layout = ({ children }) => {
+type Props = {
+  children: React.ReactNode;
+};
+
+
+const Layout = ({ children }: Props) => {
   const currentYear = new Date().getFullYear();
   return (
     <>
