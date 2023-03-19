@@ -26,7 +26,7 @@ function FAQ() {
 
   return (
     <div className="faq">
-      <h2 className="text-3xl font-bold mb-4">募集要項</h2>
+      <h2 className="text-3xl font-bold mb-4">FAQ</h2>
 
       {faqs.map((faq) => (
         <div key={faq.question} className="mb-5">
