@@ -27,21 +27,21 @@ const Schedule = () => {
             </p>
           </dt>
           <dd className="mt-2 ml-16 text-base text-gray-500">
-            13:00 ~ Opening Ceremony
+            13:00 ~ 開会式
             <br />
-            ・ Welcome speech by organizer
+            ・ 運営挨拶
             <br />
-            ・ Greetings from mentors
+            ・ メンター挨拶
             <br />
-            ・ Notices
+            ・ 注意事項
             <br />
-            13:30 ~ 14:00 Marketing lecture by CEO of Amatec, Matsui
+            13:30 ~ 14:00 マーケティング, プロダクト企画講義
             <br />
-            14:00 ~ Start of Ideathon
+            14:00 ~ アイディアソン開始
             <br />
-            17:00 ~ Interim presentation
+            17:00 ~ 中間発表
             <br />
-            18:00 ~ Closing Ceremony
+            18:00 ~ 閉会式
           </dd>
         </div>
 
@@ -69,28 +69,27 @@ const Schedule = () => {
             </p>
           </dt>
           <dd className="mt-2 ml-16 text-base text-gray-500">
-            10:30 ~ Doors open
+            10:30 ~ 開場
             <br />
-            11:00 ~ Opening Ceremony for Day 2
+            11:00 ~ 開会式
             <br />
-            ・ Introduction of sponsor companies (10 minutes)
+            ・ 協賛企業の紹介(10分)
             <br />
             &nbsp;&nbsp;&nbsp; ・ TOMOSUBA
             <br />
-            &nbsp;&nbsp;&nbsp; ・ Bridge Corporation
+            &nbsp;&nbsp;&nbsp; ・ ブリッジコーポレーション
             <br />
-            &nbsp;&nbsp;&nbsp; ・ Coming Soon...
+            &nbsp;&nbsp;&nbsp; ・ カラビナテクノロジー
             <br />
-            12:00 ~ Ideathon resumes!
+            12:00 ~ アイディアソン再開！
             <br />
-            16:00 ~ Final presentation
+            16:00 ~ 最終発表
             <br />
-            16:45 ~ Announcement of results
+            16:45 ~ 結果発表
             <br />
-            17:15 ~ 18:30 Networking party
+            17:15 ~ 18:30 交流会
           </dd>
         </div>
-
       </dl>
     </div>
   );
