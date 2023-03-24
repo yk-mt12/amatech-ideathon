@@ -16,7 +16,7 @@ const Seo = () => {
           url: "https://amatech-ideathon-ahwn6tro2-yk-mt12.vercel.app",
           images: [
             {
-              url: "https://amatech-ideathon-ahwn6tro2-yk-mt12.vercel.app/images/ogp.jpg",
+              url: "https://amatech-ideathon-ahwn6tro2-yk-mt12.vercel.app/images/ogp.png",
               width: 800,
               height: 600,
               alt: "Og Image Alt",
