@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "lint": "next lint",
     "storybook": "start-storybook -p 6006",
@@ -41,6 +42,7 @@
     "babel-loader": "^8.3.0",
     "eslint-plugin-storybook": "^0.6.11",
     "eslint-plugin-tailwindcss": "^3.10.1",
+    "next-sitemap": "^4.0.6",
     "postcss": "^8.4.21",
     "postcss-loader": "^7.1.0",
     "prettier": "^2.8.4",

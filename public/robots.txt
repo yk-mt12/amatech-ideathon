@@ -1,4 +1,9 @@
+# *
 User-agent: *
 Allow: /
 
+# Host
+Host: https://amatech-ideathon-mxd3ljcb2-yk-mt12.vercel.app/
+
+# Sitemaps
 Sitemap: https://amatech-ideathon-mxd3ljcb2-yk-mt12.vercel.app/sitemap.xml
