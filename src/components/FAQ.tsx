@@ -18,7 +18,7 @@ function FAQ() {
     },
     {
       question:
-        "[TOMOSUBA 京都河原町](https://tomosuba.jp/kyoto/)とはなんですか？",
+        "TOMOSUBA 京都河原町とはなんですか？",
       answer:
         "河原町にある学生完全無料のコミュニティスペースです。この度あまてくがTOMOSUBA様と提携し、イベント会場としてお貸しいただくことになりました。",
     },
