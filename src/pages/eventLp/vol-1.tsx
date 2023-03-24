@@ -6,6 +6,7 @@ import IdeathonFeatures from "@/components/IdeathonFeatures";
 import Info from "@/components/Info";
 import Sponsor from "@/components/Sponsor/Sponsor";
 import FAQ from "@/components/FAQ";
+import { Twitter } from "@/components/Twitter";
 
 export const Vol1 = () => {
   return (
@@ -17,6 +18,7 @@ export const Vol1 = () => {
       <Schedule />
       <Sponsor />
       <FAQ />
+      <Twitter />
     </Layout>
   );
 };
