@@ -23,8 +23,9 @@ const Info = () => {
 
       <div className="mb-4">
         <h2 className="text-xl font-bold">表彰</h2>
-        <p>優勝景品: ¥10,000(1チーム)</p>
-        <p>メンター賞: ¥2000(1人)</p>
+        <p>最優秀賞: ¥10,000円(1チーム)</p>
+        <p>メンター賞: ¥2000円</p>
+        <p>企業賞: 1チーム</p>
       </div>
 
       <div className="mb-4">
