@@ -7,13 +7,8 @@ type Props = {
 
 const CompanyLogo = ({ src, href }: Props) => {
   return (
-    <a href={href}>
-      <Image
-        src={src}
-        alt="Company Logo"
-        width={250}
-        height={250}
-      />
+    <a href={href} className="mx-auto block sp:mx-0 lg:mx-0">
+      <Image src={src} alt="Company Logo" width={250} height={160} />
     </a>
   );
 };
