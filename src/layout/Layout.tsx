@@ -1,10 +1,10 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 
 type Props = {
   children: React.ReactNode;
 };
-
 
 const Layout = ({ children }: Props) => {
   const currentYear = new Date().getFullYear();
@@ -18,22 +18,18 @@ const Layout = ({ children }: Props) => {
         <header className="bg-white shadow">
           <div className="container mx-auto py-4 px-6">
             <h1 className="text-xl font-semibold text-gray-800 lg:text-2xl">
-              <Image
-                className="inline-block h-8 w-8"
-                src="/images/logo/amatech-logo.jpg"
-                alt="あまてくロゴ"
-                width={256}
-                height={256}
-              />
-              あまてく アイディアソン
+              <Link href="/">
+                <Image
+                  className="inline-block h-8 w-8"
+                  src="/images/logo/amatech-logo.jpg"
+                  alt="あまてくロゴ"
+                  width={256}
+                  height={256}
+                />
+                あまてく アイディアソン
+              </Link>
             </h1>
           </div>
-          <Image
-            src="/images/hero.png"
-            alt="あまてくロゴ"
-            width={1980}
-            height={1000}
-          />
         </header>
         <main className="container mx-auto py-6 px-4 sm:px-6 lg:px-8">
           {children}
