@@ -10,11 +10,11 @@ export const Twitter = () => {
         当日のハッシュタグ
         <span className="text-1xl font-bold text-blue-400 hover:text-blue-500">
           <a
-            href="https://twitter.com/intent/tweet?hashtags=あまてくアイディアソン"
+            href="https://twitter.com/intent/tweet?hashtags=cacあまてくアイディアソン"
             target="_blank"
             rel="noopener noreferrer"
           ></a>
-          #あまてくアイディアソン
+          #cacあまてくアイディアソン
         </span>
         <br />
         学んだことや感想などをツイートしてください！
