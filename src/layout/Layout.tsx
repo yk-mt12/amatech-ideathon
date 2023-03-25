@@ -67,7 +67,7 @@ const Layout = ({ children }: Props) => {
               <Link href="/vol1" className="my-1 md:my-0 md:mx-4 text-gray-800 font-bold hover:text-blue-500">
                   Vol1
               </Link>
-              <Link href="/contact" className="my-1 md:my-0 md:mx-4 text-gray-800 font-bold hover:text-blue-500">
+              <Link href="/Contact" className="my-1 md:my-0 md:mx-4 text-gray-800 font-bold hover:text-blue-500">
                   Contact
               </Link>
             </div>
