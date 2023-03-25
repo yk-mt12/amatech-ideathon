@@ -16,7 +16,7 @@ const Layout = ({ children }: Props) => {
       </Head>
       <div className="min-h-screen bg-gray-100">
         <header className="bg-white shadow">
-          <div className="container mx-auto py-4 px-6">
+          <div className="container mx-auto flex items-center justify-between py-4 px-6">
             <h1 className="text-xl font-semibold text-gray-800 lg:text-2xl">
               <Link href="/">
                 <Image

@@ -8,7 +8,7 @@ import Sponsor from "@/components/Sponsor/Sponsor";
 import FAQ from "@/components/FAQ";
 import { Twitter } from "@/components/Twitter";
 
-export const Vol1 = () => {
+const Vol1 = () => {
   return (
     <Layout>
       <Hero />
@@ -22,3 +22,5 @@ export const Vol1 = () => {
     </Layout>
   );
 };
+
+export default Vol1;

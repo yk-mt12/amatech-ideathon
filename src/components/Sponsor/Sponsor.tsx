@@ -4,6 +4,7 @@ const Sponsor = () => {
   return (
     <div className="mx-auto mb-20 bg-white py-16 px-4 sm:px-6 lg:px-8 lg:py-8">
       <h2 className="text-3xl font-bold">スポンサー</h2>
+      <p className="mt-2">興味ある企業様は<span><a className="text-blue-500 font-bold hover:text-blue-300">こちら</a></span></p>
       <div className="flex flex-wrap items-center justify-center lg:justify-between">
         <div className="w-full lg:w-auto">
           <CompanyLogo
