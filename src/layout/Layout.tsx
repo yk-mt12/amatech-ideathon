@@ -16,7 +16,7 @@ const Layout = ({ children }: Props) => {
   };
 
   return (
-    <>
+    <div className="bg-slate-100">
       <nav className="bg-white shadow">
         <div className="container mx-auto px-6 py-4 md:flex md:justify-between md:items-center">
           <div className="flex justify-between items-center">
@@ -61,7 +61,7 @@ const Layout = ({ children }: Props) => {
           <div
             className={`${
               menuOpen ? "block" : "hidden"
-            } md:flex md:items-center md:justify-between`}
+            } md:flex md:items-center md:justify-between `}
           >
             <div className="flex flex-col md:flex-row md:items-center">
               <Link href="/vol1" className="my-1 md:my-0 md:mx-4 text-gray-800 font-bold hover:text-blue-500">
@@ -84,7 +84,7 @@ const Layout = ({ children }: Props) => {
           </p>
         </div>
       </footer>
-    </>
+    </div>
   );
 };
 
